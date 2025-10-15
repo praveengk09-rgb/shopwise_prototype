@@ -1,4 +1,4 @@
-``markdown
+
 # 🛍️ PriceWise - Smart Price Comparison Platform
 
 A modern, full-stack web application that helps you find the best deals by comparing prices across multiple e-commerce platforms in real-time.
